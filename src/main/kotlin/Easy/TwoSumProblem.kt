@@ -1,3 +1,5 @@
+package Easy
+
 class TwoSumProblem {
     companion object {
         fun twoSum(nums: IntArray, target: Int): IntArray {

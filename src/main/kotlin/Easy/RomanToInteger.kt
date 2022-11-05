@@ -1,4 +1,4 @@
-/*
+package Easy/*
   Symbol       Value
 I             1
 V             5
